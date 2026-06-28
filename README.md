@@ -45,9 +45,9 @@ pip install -r requirements.txt
 pip install .
 ```
 
-**Common Commands**
+# Common Commands
 
-​**Dump Boot and VBMeta**
+# Dump Boot and VBMeta
 ```bash
 ​python3 mtk.py r boot,vbmeta boot.img,vbmeta.img
 ```
@@ -78,7 +78,8 @@ python3 mtk.py daa seccfg unlock
 ​There are two types of flags that can be used; both have different formats to be used in:
 ​
 # First type:
-​Format: python3 mtk.py [command] --[flag]
+
+​**Format:** python3 mtk.py [command] --[flag]
 
 1. ​--force: Bypasses signature or size mismatches to force a flash.
 
@@ -87,7 +88,8 @@ python3 mtk.py daa seccfg unlock
 3. ​--skip [partition]: Tells the script to ignore a specific partition during a bulk read/write.
 
 # Second type:
-​Format: python3 mtk.py --[flag] [command]
+
+**​Format:** python3 mtk.py --[flag] [command]
 
 ​1. --nobatt: Used for devices that require being connected without a battery to trigger BROM.
 
@@ -95,6 +97,6 @@ python3 mtk.py daa seccfg unlock
 
 3. ​--debugmode: Provides a full log of the connection process to find where it is failing.
 
-THESE ARE ONLY THE MOST USED FLAGS IN BOOTH TYPES , I CAN ADD ALL OF THEM, IF I DID THE REPOSITORY WILL BE 200 TO 300 LINS LONG AND IMPOSSIBLE TO READ
+THESE ARE ONLY THE MOST USED FLAGS IN BOOTH TYPES, I CAN'T ADD ALL OF THEM, IF I DID THE REPOSITORY WILL BE 200 TO 300 LINS LONG AND IMPOSSIBLE TO READ
 
 ​For suggestions and bug reports contact sameenataj427@gmail.com. Thank you.
