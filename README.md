@@ -12,21 +12,21 @@ Mtkclient-NoRoot-Termux
 
 1. First down the tool feom the steps below
 
-1. ​Then run the command you want and press enter
+2. ​Then run the command you want and press enter
 
-2.​After the text "Waiting for device connection..." Appears, completely power off your target phone
+3.​After the text "Waiting for device connection..." Appears, completely power off your target phone
 
-3. Then hold booth volume buttons of your target phone, and by holdong then connect it to the host phone 
+4. Then hold booth volume buttons of your target phone, and by holdong then connect it to the host phone 
 
-4. If you are using a otg, the otg should be connected to the host phone, not the target phone, amd if its a type c to type c cable, any sode of the cable can be connect to the phones
+5. If you are using a otg, the otg should be connected to the host phone, not the target phone, amd if its a type c to type c cable, any sode of the cable can be connect to the phones
 
-5. ​Then quickly press OK on the Termux API popup as soon as it appears, as you only have ~3 seconds befor the target phone times out and reboots.
+6. ​Then quickly press OK on the Termux API popup as soon as it appears, as you only have ~3 seconds befor the target phone times out and reboots.
 
-6. ​And if your timing is perfect, Then the scripts will handle the rest.
+7. ​And if your timing is perfect, Then the scripts will handle the rest.
 
-7. The flashing will go on for atleast 2 to 5 minutes
+8. The flashing will go on for atleast 2 to 5 minutes
 
-8. After it finishes, you can unplug and reboot the phone safely
+9. After it finishes, you can unplug and reboot the phone safely
 
 # Guid To Install The Tool 👇👇
 
