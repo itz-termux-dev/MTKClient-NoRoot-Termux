@@ -8,18 +8,25 @@ Mtkclient-NoRoot-Termux
 ​Optimized for Mobile: All GUI, Windows-specific, and non-essential files have been stripped to keep the script small and fast.
 ​Enhanced Connection: Features a custom polling loop that looks for USB devices thousands of times per second to overcome Android's single-look limitation.
 
-​**How to use the tool**
-1. ​First run the command you want.
+​# How to use the tool
 
-2.​Then press Enter and wait for the text "Waiting for device connection...".
+1. First down the tool feom the steps below
 
-3. ​Then connect your target phone by holding its Volume Up and Volume Down buttons to the host phone via OTG or a type c to type c cable
+1. ​Then run the command you want and press enter
 
-4. if you are using a otg, tge otg should be connected to the host phone, not the target phone
+2.​After the text "Waiting for device connection..." Appears, completely power off your target phone
 
-5. ​Then quickly press OK on the Termux API popup as soon as it appears, as you only have ~3 seconds befor the target phone timeouts snd reboots.
+3. Then hold booth volume buttons of your target phone, and by holdong then connect it to the host phone 
 
-6. ​Then the scripts will handle the rest.
+4. If you are using a otg, the otg should be connected to the host phone, not the target phone, amd if its a type c to type c cable, any sode of the cable can be connect to the phones
+
+5. ​Then quickly press OK on the Termux API popup as soon as it appears, as you only have ~3 seconds befor the target phone times out and reboots.
+
+6. ​And if your timing is perfect, Then the scripts will handle the rest.
+
+7. The flashing will go on for atleast 2 to 5 minutes
+
+8. After it finishes, you can unplug and reboot the phone safely
 
 # Guid To Install The Tool 👇👇
 
