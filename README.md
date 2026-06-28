@@ -8,7 +8,7 @@ Mtkclient-NoRoot-Termux
 ​Optimized for Mobile: All GUI, Windows-specific, and non-essential files have been stripped to keep the script small and fast.
 ​Enhanced Connection: Features a custom polling loop that looks for USB devices thousands of times per second to overcome Android's single-look limitation.
 
-​# How to use the tool
+# How to use
 
 1. First down the tool feom the steps below
 
