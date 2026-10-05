@@ -34,7 +34,7 @@ First install [Termux](https://f-droid.org/repo/com.termux_1022.apk) and [Termux
 
 ```bash
 ​pkg update && pkg upgrade -y
-pkg install python git termux-api libusb clang binutils -y
+pkg install python python3 git termux-api libusb clang binutils -y
 ```
 ```bash
 python3 -m venv ~/.venv
