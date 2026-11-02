@@ -97,4 +97,4 @@ python3 mtk.py daa seccfg unlock
 
 THESE ARE ONLY THE MOST USED FLAGS IN BOOTH TYPES, I CAN'T ADD ALL OF THEM, IF I DID THE REPOSITORY WILL BE 200 TO 300 LINS LONG AND IMPOSSIBLE TO READ
 
-​For suggestions and bug reports contact sameenataj427@gmail.com. Thank you.
+​For suggestions and bug reports contact mubarakpa427@gmail.com. Thank you.
