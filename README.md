@@ -91,11 +91,9 @@ python3 mtk.py daa seccfg unlock
 
 **​Format:** python3 mtk.py --[flag] [command]
 
-​1. --nobatt: Used for devices that require being connected without a battery to trigger BROM.
+​1. --stage2: Forces the SLA/DAA bypass payload for newer, secured MediaTek chipsets.
 
-​2. --stage2: Forces the SLA/DAA bypass payload for newer, secured MediaTek chipsets.
-
-3. ​--debugmode: Provides a full log of the connection process to find where it is failing.
+2. ​--debugmode: Provides a full log of the connection process to find where it is failing.
 
 THESE ARE ONLY THE MOST USED FLAGS IN BOOTH TYPES, I CAN'T ADD ALL OF THEM, IF I DID THE REPOSITORY WILL BE 200 TO 300 LINS LONG AND IMPOSSIBLE TO READ
 
